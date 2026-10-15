@@ -705,9 +705,9 @@ function copyAccount(text, btn) {
 }
 
 function confirmAttendance() {
-    // WhatsApp de confirmación: (849) 401-1271 con código de país 1
-    const telefono = '18494011271';
-    const mensaje = '¡Hola! Confirmo mi asistencia a los XV años de Pilar 🌹';
+    // WhatsApp de confirmación: (809) 918-0520 con código de país 1
+    const telefono = '18099180520';
+    const mensaje = '¡Hola! Confirmo mi asistencia a los XV de Pilar 🤍';
     window.open(`https://wa.me/${telefono}?text=${encodeURIComponent(mensaje)}`, '_blank');
 }
 
